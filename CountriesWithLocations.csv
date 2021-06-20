@@ -1,0 +1,194 @@
+CountryName,Average Life expectancy,codes,Country,Continent
+Afghanistan,58.193749999999994,"('AF', 'AS')",AF,AS
+Albania,75.15624999999999,"('AL', 'EU')",AL,EU
+Algeria,73.61874999999999,"('DZ', 'AF')",DZ,AF
+Angola,49.01875,"('AO', 'AF')",AO,AF
+Antigua and Barbuda,75.05624999999999,"('AG', 'NA')",AG,NA
+Argentina,75.15624999999999,"('AR', 'SA')",AR,SA
+Armenia,73.39999999999999,"('AM', 'AS')",AM,AS
+Australia,81.81250000000001,"('AU', 'OC')",AU,OC
+Austria,81.48124999999999,"('AT', 'EU')",AT,EU
+Azerbaijan,70.73124999999999,"('AZ', 'AS')",AZ,AS
+Bahamas,74.28750000000001,"('BS', 'NA')",BS,NA
+Bahrain,75.72500000000001,"('BH', 'AS')",BH,AS
+Bangladesh,69.3,"('BD', 'AS')",BD,AS
+Barbados,74.35625,"('BB', 'NA')",BB,NA
+Belarus,69.90625,"('BY', 'EU')",BY,EU
+Belgium,80.68124999999999,"('BE', 'EU')",BE,EU
+Belize,69.26875,"('BZ', 'NA')",BZ,NA
+Benin,57.568749999999994,"('BJ', 'AF')",BJ,AF
+Bhutan,66.1625,"('BT', 'AS')",BT,AS
+Bolivia,67.70625,"('BO', 'SA')",BO,SA
+Bosnia and Herzegovina,75.96875000000001,"('BA', 'EU')",BA,EU
+Botswana,56.05,"('BW', 'AF')",BW,AF
+Brazil,73.38125,"('BR', 'SA')",BR,SA
+Brunei Darussalam,76.48750000000001,"('BN', 'AS')",BN,AS
+Bulgaria,72.85,"('BG', 'EU')",BG,EU
+Burkina Faso,55.64374999999999,"('BF', 'AF')",BF,AF
+Burundi,55.537499999999994,"('BI', 'AF')",BI,AF
+Cabo Verde,72.51875,"('CV', 'AF')",CV,AF
+Cambodia,64.34375,"('KH', 'AS')",KH,AS
+Cameroon,54.01875,"('CM', 'AF')",CM,AF
+Canada,81.6875,"('CA', 'NA')",CA,NA
+Central African Republic,48.51250000000001,"('CF', 'AF')",CF,AF
+Chad,50.3875,"('TD', 'AF')",TD,AF
+Chile,79.44999999999999,"('CL', 'SA')",CL,SA
+China,74.2625,"('CN', 'AS')",CN,AS
+Colombia,73.28750000000001,"('CO', 'SA')",CO,SA
+Comoros,61.581250000000004,"('KM', 'AF')",KM,AF
+Congo,59.04375,"('CG', 'AF')",CG,AF
+Cook Islands,,"('CK', 'OC')",CK,OC
+Costa Rica,78.59374999999999,"('CR', 'NA')",CR,NA
+Croatia,76.11875,"('HR', 'EU')",HR,EU
+Cuba,77.97500000000001,"('CU', 'NA')",CU,NA
+Cyprus,79.675,"('CY', 'AS')",CY,AS
+Czechia,76.76875,"('CZ', 'EU')",CZ,EU
+Côte d'Ivoire,50.3875,"('CI', 'AF')",CI,AF
+Democratic People's Republic of Korea,69.19375000000001,"('KP', 'AS')",KP,AS
+Democratic Republic of the Congo,55.687499999999986,"('CD', 'AF')",CD,AF
+Denmark,79.25625000000001,"('DK', 'EU')",DK,EU
+Djibouti,60.75625,"('DJ', 'AF')",DJ,AF
+Dominica,,"('DM', 'NA')",DM,NA
+Dominican Republic,72.34374999999999,"('DO', 'NA')",DO,NA
+Ecuador,74.72500000000001,"('EC', 'SA')",EC,SA
+Egypt,71.5,"('EG', 'AF')",EG,AF
+El Salvador,71.74375,"('SV', 'NA')",SV,NA
+Equatorial Guinea,55.3125,"('GQ', 'AF')",GQ,AF
+Eritrea,60.6875,"('ER', 'AF')",ER,AF
+Estonia,74.94375,"('EE', 'EU')",EE,EU
+Ethiopia,59.11250000000001,"('ET', 'AF')",ET,AF
+Fiji,68.7125,"('FJ', 'OC')",FJ,OC
+Finland,80.7125,"('FI', 'EU')",FI,EU
+France,82.21875,"('FR', 'EU')",FR,EU
+Gabon,62.243750000000006,"('GA', 'AF')",GA,AF
+Gambia,59.462500000000006,"('GM', 'AF')",GM,AF
+Georgia,73.50625,"('GE', 'AS')",GE,AS
+Germany,81.175,"('DE', 'EU')",DE,EU
+Ghana,60.8625,"('GH', 'AF')",GH,AF
+Greece,81.21875,"('GR', 'EU')",GR,EU
+Grenada,73.29375,"('GD', 'NA')",GD,NA
+Guatemala,71.73125,"('GT', 'NA')",GT,NA
+Guinea,56.0125,"('GN', 'AF')",GN,AF
+Guinea-Bissau,55.36875,"('GW', 'AF')",GW,AF
+Guyana,65.6375,"('TL', 'AS')",GY,SA
+Haiti,59.868750000000006,"('HT', 'NA')",HT,NA
+Honduras,72.99374999999999,"('HN', 'NA')",HN,NA
+Hungary,73.82499999999999,"('HU', 'EU')",HU,EU
+Iceland,82.44375000000001,"('IS', 'EU')",IS,EU
+India,65.41874999999999,"('IN', 'AS')",IN,AS
+Indonesia,67.55625,"('ID', 'AS')",ID,AS
+Iran,73.85624999999999,"('IR', 'AS')",IR,AS
+Iraq,70.35625,"('IQ', 'AS')",IQ,AS
+Ireland,80.15,"('IE', 'EU')",IE,EU
+Israel,81.3,"('IL', 'AS')",IL,AS
+Italy,82.1875,"('IT', 'EU')",IT,EU
+Jamaica,74.29375,"('JM', 'NA')",JM,NA
+Japan,82.5375,"('JP', 'AS')",JP,AS
+Jordan,72.9875,"('JO', 'AS')",JO,AS
+Kazakhstan,66.7625,"('KZ', 'AS')",KZ,AS
+Kenya,57.481249999999996,"('KE', 'AF')",KE,AF
+Kiribati,65.14999999999999,"('KI', 'OC')",KI,OC
+Kuwait,73.84375000000001,"('KW', 'AS')",KW,AS
+Kyrgyzstan,69.08125,"('KG', 'AS')",KG,AS
+Lao People's Democratic Republic,62.38125,"('LA', 'AS')",LA,AS
+Latvia,73.73125,"('LV', 'EU')",LV,EU
+Lebanon,74.2,"('LB', 'AS')",LB,AS
+Lesotho,48.78124999999999,"('LS', 'AF')",LS,AF
+Liberia,57.525,"('LR', 'AF')",LR,AF
+Libya,72.48750000000001,"('LY', 'AF')",LY,AF
+Lithuania,72.80624999999999,"('LT', 'EU')",LT,EU
+Luxembourg,80.78125,"('LU', 'EU')",LU,EU
+Madagascar,62.74375,"('MG', 'AF')",MG,AF
+Malawi,49.893750000000004,"('MW', 'AF')",MW,AF
+Malaysia,73.75625000000001,"('MY', 'AS')",MY,AS
+Maldives,75.5375,"('MV', 'AS')",MV,AS
+Mali,54.9375,"('ML', 'AF')",ML,AF
+Malta,80.36250000000001,"('MT', 'EU')",MT,EU
+Marshall Islands,,"('MH', 'OC')",MH,OC
+Mauritania,62.8,"('MR', 'AF')",MR,AF
+Mauritius,72.7125,"('MU', 'AF')",MU,AF
+Mexico,75.71874999999999,"('MX', 'NA')",MX,NA
+Micronesia,68.2,"('FM', 'OC')",FM,OC
+Monaco,,"('MC', 'EU')",MC,EU
+Mongolia,65.8875,"('MN', 'AS')",MN,AS
+Montenegro,74.5,"('ME', 'EU')",ME,EU
+Morocco,72.15624999999999,"('MA', 'AF')",MA,AF
+Mozambique,53.393750000000004,"('MZ', 'AF')",MZ,AF
+Myanmar,64.2,"('MM', 'AS')",MM,AS
+Namibia,60.400000000000006,"('NA', 'AF')",NA,AF
+Nauru,,"('NR', 'OC')",NR,OC
+Nepal,66.48125,"('NP', 'AS')",NP,AS
+Netherlands,81.13125,"('NL', 'EU')",NL,EU
+New Zealand,81.33749999999999,"('NZ', 'OC')",NZ,OC
+Nicaragua,73.45,"('NI', 'NA')",NI,NA
+Niger,56.98125,"('NE', 'AF')",NE,AF
+Nigeria,51.35625000000001,"('NG', 'AF')",NG,AF
+Niue,,"('NU', 'OC')",NU,OC
+Norway,81.79375,"('NO', 'EU')",NO,EU
+Oman,74.84375,"('OM', 'AS')",OM,AS
+Pakistan,64.5,"('PK', 'AS')",PK,AS
+Palau,,"('PW', 'OC')",PW,OC
+Panama,76.4875,"('PA', 'NA')",PA,NA
+Papua New Guinea,61.68125,"('PG', 'OC')",PG,OC
+Paraguay,73.1125,"('PY', 'SA')",PY,SA
+Peru,73.66250000000001,"('PE', 'SA')",PE,SA
+Philippines,67.57499999999999,"('PH', 'AS')",PH,AS
+Poland,75.65,"('PL', 'EU')",PL,EU
+Portugal,79.99375,"('PT', 'EU')",PT,EU
+Qatar,77.03125,"('QA', 'AS')",QA,AS
+Republic of Korea,80.4875,"('KP', 'AS')",KP,AS
+Republic of Moldova,69.98124999999999,"('MD', 'EU')",MD,EU
+Romania,74.05000000000001,"('RO', 'EU')",RO,EU
+Russian Federation,67.76249999999999,"('RU', 'EU')",RU,EU
+Rwanda,59.3125,"('RW', 'AF')",RW,AF
+Saint Kitts and Nevis,,"('KN', 'NA')",KN,NA
+Saint Lucia,73.6,"('LC', 'NA')",LC,NA
+Saint Vincent and the Grenadines,73.475,"('VC', 'NA')",VC,NA
+Samoa,73.61875,"('WS', 'OC')",WS,OC
+San Marino,,"('SM', 'EU')",SM,EU
+Sao Tome and Principe,65.1625,"('ST', 'AF')",ST,AF
+Saudi Arabia,73.46875,"('SA', 'AS')",SA,AS
+Senegal,62.56875,"('SN', 'AF')",SN,AF
+Serbia,73.95625,"('RS', 'EU')",RS,EU
+Seychelles,72.37500000000001,"('SC', 'AF')",SC,AF
+Sierra Leone,46.1125,"('SL', 'AF')",SL,AF
+Singapore,81.47500000000001,"('SG', 'AS')",SG,AS
+Slovakia,74.75,"('SK', 'EU')",SK,EU
+Slovenia,79.73125,"('SI', 'EU')",SI,EU
+Solomon Islands,67.7125,"('SB', 'OC')",SB,OC
+Somalia,53.31875,"('SO', 'AF')",SO,AF
+South Africa,57.49999999999999,"('ZA', 'AF')",ZA,AF
+South Sudan,53.875,"('SS', 'AF')",SS,AF
+Spain,82.06875,"('ES', 'EU')",ES,EU
+Sri Lanka,73.4,"('LK', 'AS')",LK,AS
+Sudan,61.825,"('SD', 'AF')",SD,AF
+Suriname,70.08125,"('SR', 'SA')",SR,SA
+Swaziland,51.324999999999996,"('SZ', 'AF')",SZ,AF
+Sweden,82.51875,"('SE', 'EU')",SE,EU
+Switzerland,82.33125,"('CH', 'EU')",CH,EU
+Syrian Arab Republic,70.85,"('SY', 'AS')",SY,AS
+Tajikistan,66.65625,"('TJ', 'AS')",TJ,AS
+Thailand,73.08125,"('TH', 'AS')",TH,AS
+Macedonia,74.1125,"('MK', 'EU')",MK,EU
+Timor-Leste,64.75625,"('TL', 'Unknown')",TL,AS
+Togo,56.66250000000001,"('TG', 'AF')",TG,AF
+Tonga,72.53124999999999,"('TO', 'OC')",TO,OC
+Trinidad and Tobago,71.06875,"('TT', 'NA')",TT,NA
+Tunisia,74.35625000000002,"('TN', 'AF')",TN,AF
+Turkey,73.9125,"('TR', 'AS')",TR,AS
+Turkmenistan,64.61874999999999,"('TM', 'AS')",TM,AS
+Tuvalu,,"('TV', 'OC')",TV,OC
+Uganda,55.70625,"('UG', 'AF')",UG,AF
+Ukraine,69.9375,"('UA', 'EU')",UA,EU
+United Arab Emirates,75.7,"('AE', 'AS')",AE,AS
+United Kingdom of Great Britain and Northern Ireland,80.79375,"('GB', 'EU')",GB,EU
+Tanzania,56.00625000000001,"('TZ', 'AF')",TZ,AF
+United States of America,78.06250000000001,"('US', 'NA')",US,NA
+Uruguay,76.075,"('UY', 'SA')",UY,SA
+Uzbekistan,68.03125,"('UZ', 'AS')",UZ,AS
+Vanuatu,71.38749999999999,"('VU', 'OC')",VU,OC
+Venezuela,73.3875,"('VE', 'SA')",VE,SA
+Vietnam,74.775,"('VN', 'AS')",VN,AS
+Yemen,63.862500000000004,"('YE', 'AS')",YE,AS
+Zambia,53.90624999999999,"('ZM', 'AF')",ZM,AF
+Zimbabwe,50.48749999999999,"('ZW', 'AF')",ZW,AF
